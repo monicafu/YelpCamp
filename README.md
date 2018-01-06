@@ -22,6 +22,7 @@ Description:
      
  
  required modules 
+ 
      express.js
      bodyParser
      mongoose    
@@ -32,6 +33,7 @@ Description:
      express-session
      seedDB     
      methodOverride
+ 
  
  
  
