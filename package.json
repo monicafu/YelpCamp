@@ -1,6 +1,6 @@
 {
   "name": "yelpcamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yelp camp project ",
   "main": "server.js",
   "scripts": {
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yangyang861115/YelpCamp.git"
+    "url": "https://github.com/monicafu/YelpCamp.git"
   },
   "keywords": [
     "yelp",
     "camp"
   ],
-  "author": "Yang Yang",
+  "author": "Monica",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yangyang861115/YelpCamp/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/yangyang861115/YelpCamp#readme",
+  "homepage": "https://github.com/monicafu/YelpCamp/blob/master/README.md",
   "dependencies": {
     "body-parser": "^1.15.2",
     "connect-flash": "^0.1.1",
@@ -44,3 +44,4 @@
     "nodemon": "^1.10.0"
   }
 }
+
