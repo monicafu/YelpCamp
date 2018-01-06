@@ -6,7 +6,7 @@ Description:
 	•	Developed a dynamic web application that provides an information share platform for camping lovers.
 	•	Implemented the front-end with HTML/CSS/JavaScript.
 	•	Implement MVC backend using Restful API and the Authentication process with Node.js/Express framework.
-    •   Designed the data schema and used mongoose for interaction with MongoDB.
+    	•   	Designed the data schema and used mongoose for interaction with MongoDB.
   
  Functions: 
      1.login
