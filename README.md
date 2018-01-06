@@ -33,8 +33,7 @@ Description:
      express-session
      seedDB     
      methodOverride
- 
- 
- 
+     
+  WELCOMR TO VISIT: http://18.220.196.71:3000/
  
  This is my first web page that access to Node.js and MongoDB,function is simple but it's very interesting 
